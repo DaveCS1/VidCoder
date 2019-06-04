@@ -160,7 +160,9 @@
     <None Include="VidCoderPackage_StoreKey.pfx" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\VidCoder\VidCoder.csproj" />
+    <ProjectReference Include="..\VidCoder\VidCoder.csproj">
+      <SkipGetTargetFrameworkProperties>True</SkipGetTargetFrameworkProperties>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(WapProjPath)\Microsoft.DesktopBridge.targets" />
 </Project>

@@ -23,14 +23,14 @@ Global
 		Release-Beta|x64 = Release-Beta|x64
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{F912FA33-DC57-4272-915A-EEDB212BB860}.Debug|x64.ActiveCfg = Debug|x64
-		{F912FA33-DC57-4272-915A-EEDB212BB860}.Debug|x64.Build.0 = Debug|x64
-		{F912FA33-DC57-4272-915A-EEDB212BB860}.Debug-Beta|x64.ActiveCfg = Debug|x64
-		{F912FA33-DC57-4272-915A-EEDB212BB860}.Debug-Beta|x64.Build.0 = Debug|x64
-		{F912FA33-DC57-4272-915A-EEDB212BB860}.Release|x64.ActiveCfg = Release|x64
-		{F912FA33-DC57-4272-915A-EEDB212BB860}.Release|x64.Build.0 = Release|x64
-		{F912FA33-DC57-4272-915A-EEDB212BB860}.Release-Beta|x64.ActiveCfg = Release|x64
-		{F912FA33-DC57-4272-915A-EEDB212BB860}.Release-Beta|x64.Build.0 = Release|x64
+		{F912FA33-DC57-4272-915A-EEDB212BB860}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{F912FA33-DC57-4272-915A-EEDB212BB860}.Debug|x64.Build.0 = Debug|Any CPU
+		{F912FA33-DC57-4272-915A-EEDB212BB860}.Debug-Beta|x64.ActiveCfg = Debug|Any CPU
+		{F912FA33-DC57-4272-915A-EEDB212BB860}.Debug-Beta|x64.Build.0 = Debug|Any CPU
+		{F912FA33-DC57-4272-915A-EEDB212BB860}.Release|x64.ActiveCfg = Release|Any CPU
+		{F912FA33-DC57-4272-915A-EEDB212BB860}.Release|x64.Build.0 = Release|Any CPU
+		{F912FA33-DC57-4272-915A-EEDB212BB860}.Release-Beta|x64.ActiveCfg = Release|Any CPU
+		{F912FA33-DC57-4272-915A-EEDB212BB860}.Release-Beta|x64.Build.0 = Release|Any CPU
 		{63452895-7AA1-45EC-A0D8-3F30CCFA6D0D}.Debug|x64.ActiveCfg = Debug|x64
 		{63452895-7AA1-45EC-A0D8-3F30CCFA6D0D}.Debug|x64.Build.0 = Debug|x64
 		{63452895-7AA1-45EC-A0D8-3F30CCFA6D0D}.Debug-Beta|x64.ActiveCfg = Debug|x64
